@@ -1,0 +1,15 @@
+[MEMORANDUM: VAULT-TEC FACILITY OPERATIONS]
+FROM: Overseer Office - Vault 42
+TO: Terminal Technicians & Vault Residents
+SUBJECT: Restricted Access to Master Vault Sector
+
+Attention Personnel:
+Effective immediately, all direct terminal access to system core files is restricted.
+Any holotape or data cartridge ingested into the terminal repository must conform to 
+Vault-Tec visual data archival standards.
+
+The central terminal stream viewer (view.php) has been configured with input 
+sanitization routines. For security auditing, system source scripts remain cataloged
+within the internal web tree.
+
+Remember: Preparation for the future begins with digital security!
